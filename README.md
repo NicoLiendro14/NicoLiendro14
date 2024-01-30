@@ -18,6 +18,6 @@ Welcome to my GitHub profile! I'm Nicolas Liendro, a software developer with 4 y
 - Bot Development
 
 ## Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-liendro/) or explore my projects here on GitHub!
+Feel free to contact me for project inquiries through my [personal website](https://nicolasliendro.tech/). You can also check out my profile on [Upwork](https://www.upwork.com/freelancers/nicolasliendro) where I work as a freelancer.
 
 Let's collaborate and build amazing things together! 🚀
