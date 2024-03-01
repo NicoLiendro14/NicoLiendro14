@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm Nicolas Liendro, a software developer with 4 y
 - 🌱 I’m constantly learning and exploring new technologies to enhance my skills.
 - 💬 Ask me about anything related to Python, software development, or technology in general.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicolas-liendro/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to explore the outdoors and go hiking in my free time!
 
 ## Skills
